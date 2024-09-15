@@ -1,2 +1,3 @@
 # WSU-CPTS360-Solution
-the solution to CPTS360
+
+## 微信：scs_ryan
